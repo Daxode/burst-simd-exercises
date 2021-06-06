@@ -1,4 +1,4 @@
-# Daxode, version of @sschoene's great SIMD exercises 😸
+# Daxode, solution of @sschoene's great SIMD exercises 😸
 
 # SIMD using Burst
 Since version 1.5, Burst supports intrinsics for both x86 and ARM SIMD extensions. This repository contains some examples and exercises for using SIMD in Burst.
